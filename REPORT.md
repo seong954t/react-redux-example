@@ -38,5 +38,8 @@ Provider는 컴포넌트에서 redux를 사용하도록 제공하는 컴포넌�
 
 connect 함수는 컴포넌트를 redux에 연결하는 또다른 함수를 반환한다.
 
-참고 사이트 : https://voidsatisfaction.github.io/2017/02/24/what-is-redux/
+참고 사이트 : 
+
+https://voidsatisfaction.github.io/2017/02/24/what-is-redux/
+
 http://2dubbing.tistory.com/38
